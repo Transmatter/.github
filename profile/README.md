@@ -12,3 +12,7 @@
 🧙 Remember, We shall pass this Senior project (CMU/CAMT/SE499)
 
 🏛 you can read our proposal [here](https://docs.google.com/document/d/1A4oO1r4RZkHo-kBiyzr6v-YR1UKFiMIxMvHI3Gw1kxk/edit?usp=sharing)
+
+💻you can also read our whole project [here](https://o365cmu.sharepoint.com/:f:/s/Transmatter/EoZyGWhdMuVFoVDouwvVYjkBkVNEFJSV2977gxgMJfRd8A?e=gBLWY0)
+
+PS. the whole project you need to logged in as CMU student first
