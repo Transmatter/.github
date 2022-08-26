@@ -22,3 +22,9 @@ PS. the whole project you need to logged in as CMU student first
 ## Technical Document
 
 ☕ Transmatter/Admin [Documentation](https://transmatter.github.io/Admin-Java-Document/)
+
+## Deploy site
+
+[frontend (production)](http://52.230.104.188/) : http://52.230.104.188/ 
+
+[frontend (testing)]((http://52.230.104.188:3300)) : http://52.230.104.188:3300
