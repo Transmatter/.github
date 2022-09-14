@@ -25,8 +25,4 @@ PS. the whole project you need to logged in as CMU student first
 
 ## Deploy site
 
-[frontend (production)](http://52.230.104.188) : http://52.230.104.188/ 
-
-[frontend (testing)](http://52.230.104.188:3300) : http://52.230.104.188:3300
-
-[frontend (testing-no-audiot)](http://52.230.104.188:3330) : http://52.230.104.188:3330
+🚧 will update if there anything to be update 🚧
