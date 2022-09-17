@@ -17,8 +17,7 @@
 
 🎨 you can also checkout our visual concept [here](https://www.figma.com/file/GjGdHqRqpRwAwjA4tCp7Hl/Transmatter-Web-Page?node-id=105%3A4) 
 
-PS. the whole project you need to logged in as CMU student first
-
+PS. To Read the whole project you need to logged in as CMU student first ( We use the CMU onedrive to store the document )
 ## Technical Document
 
 ☕ Transmatter/Admin [Documentation](https://transmatter.github.io/Admin-Java-Document/)
