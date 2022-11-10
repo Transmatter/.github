@@ -13,11 +13,11 @@
 
 🏛 you can read our proposal [here](https://docs.google.com/document/d/1A4oO1r4RZkHo-kBiyzr6v-YR1UKFiMIxMvHI3Gw1kxk/edit?usp=sharing)
 
-💻you can also read our whole project [here](https://o365cmu.sharepoint.com/:f:/s/Transmatter/EoZyGWhdMuVFoVDouwvVYjkBkVNEFJSV2977gxgMJfRd8A?e=gBLWY0)
+💻you can also read our whole project [here](https://1drv.ms/u/s!AgiibLkkQfF6i0alRoX4fLEBSGHr?e=1XBpyb)
 
 🎨 you can also checkout our visual concept [here](https://www.figma.com/file/GjGdHqRqpRwAwjA4tCp7Hl/Transmatter-Web-Page?node-id=105%3A4) 
 
-PS. To Read the whole project you need to logged in as CMU student first ( We use the CMU onedrive to store the document )
+PS. The whole project is not good to be an example but good enough to be a reference
 ## Technical Document
 
 ☕ Transmatter/Admin [Documentation](https://transmatter.github.io/Admin-Java-Document/)
