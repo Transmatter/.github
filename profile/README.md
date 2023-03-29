@@ -31,8 +31,7 @@ PS. The whole project is not good to be an example but good enough to be a refer
 | Sahachan Tippimwong | [Sahachan](https://www.linkedin.com/in/sahachan-tippimwong) |
 
 
-## We will leave this project as open source software in GNU GPL in case
+## We will leave this project as open source software in GNU GPL, in case
 
 - some one want to add more idea to help visual impaired to surf the interweb
 - some one want to pracetice the idea of accessiblity in ux/ui especially visually impaired
-- and many reason as the opensource project should had
