@@ -1,5 +1,8 @@
 ## Hi we are transmatter software engineer team 👋
 
+## about us
+
+Transmatter Platform is a Content Reading platform for visual impaired. We aim to solve a navigation problem by inventing a new UX pattern for them.
 
 🙋‍♀️ we are doing a platform for visually impaired
 
@@ -9,7 +12,7 @@
 
 🍿 Fun facts - Oralita is Oat, Donut is Pun, we also use the [gitmogi](https://gitmoji.dev/) for commit message guideline
 
-🧙 Remember, We shall pass this Senior project (CMU/CAMT/SE499)
+🧙 This Senior project (CMU/CAMT/SE499), was approved by CAMT CMU
 
 🏛 you can read our proposal [here](https://docs.google.com/document/d/1A4oO1r4RZkHo-kBiyzr6v-YR1UKFiMIxMvHI3Gw1kxk/edit?usp=sharing)
 
@@ -18,3 +21,18 @@
 🎨 you can also checkout our visual concept [here](https://www.figma.com/file/GjGdHqRqpRwAwjA4tCp7Hl/Transmatter-Web-Page?node-id=105%3A4) 
 
 PS. The whole project is not good to be an example but good enough to be a reference
+
+
+## Transmatter Team ( you can reach us here )
+
+| Name | linkedin |
+| ---- | -------- |
+| Thitisan Chiluek | [Thitisan](https://www.linkedin.com/in/thitisan-chailuek-a3a785244) |
+| Sahachan Tippimwong | [Sahachan](https://www.linkedin.com/in/sahachan-tippimwong) |
+
+
+## We will leave this project as open source software in GNU GPL in case
+
+- some one want to add more idea to help visual impaired to surf the interweb
+- some one want to pracetice the idea of accessiblity in ux/ui especially visually impaired
+- and many reason as the opensource project should had
