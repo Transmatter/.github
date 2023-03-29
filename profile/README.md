@@ -18,10 +18,3 @@
 🎨 you can also checkout our visual concept [here](https://www.figma.com/file/GjGdHqRqpRwAwjA4tCp7Hl/Transmatter-Web-Page?node-id=105%3A4) 
 
 PS. The whole project is not good to be an example but good enough to be a reference
-## Technical Document
-
-☕ Transmatter/Admin [Documentation](https://transmatter.github.io/Admin-Java-Document/)
-
-## Deploy site
-
-🚧 will update if there anything to be update 🚧
