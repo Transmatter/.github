@@ -20,7 +20,7 @@ Transmatter Platform is a Content Reading platform for visual impaired. We aim t
 
 🎨 you can also checkout our visual concept [here](https://www.figma.com/file/GjGdHqRqpRwAwjA4tCp7Hl/Transmatter-Web-Page?node-id=105%3A4) 
 
-🔮 you can also checkout our presentation for camt/cmu commitee [here](https://o365cmu-my.sharepoint.com/:f:/g/personal/sahachan_t_cmu_ac_th/Ev521toG5fxDr1B3whHopi0BDtzWlgSJJIuDWUAzGninaw?e=gBSOU9)
+🔮 you can also checkout our presentation for camt/cmu commitee [here](https://1drv.ms/f/s!AgiibLkkQfF6khtZu1PsfCpaISS5?e=Q8WBfy)
 
 PS. The whole project is not good to be an example but good enough to be a reference
 
